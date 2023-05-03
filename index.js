@@ -16,8 +16,8 @@ app.get('/data',(req,res)=>{
 
 app.get('/data/:id',(req,res)=>{
     const id = req.params.id;
-    const chef = data?.find(singleData=>singleData.id == id)
-    res.send(chef) 
+    const find = data?.find(singleData=>singleData.id == id)
+    res.send(find) 
 })
 
 

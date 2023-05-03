@@ -2,7 +2,7 @@
     {
         "id": "1",
         "name": "Gordon Ramsay",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCg9LeyQp0PWvpFu24Cgcp9A00IifXt62_fw&usqp=CAU",
+        "img": "https://img.freepik.com/free-photo/studio-portrait-cook-man-with-fresh-vegetables-table_613910-9893.jpg?size=626&ext=jpg&ga=GA1.1.24677610.1673838713&semt=sph",
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "experience": "5 Years",
         "quantity": "3",
@@ -52,7 +52,7 @@
     {
         "id": "2",
         "name": "John Carry",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRyCQhbQABG4321ikXtQyYSlNEBxRrRUbPuA&usqp=CAU",
+        "img": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?size=626&ext=jpg&ga=GA1.1.24677610.1673838713&semt=sph",
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "experience": "5 Years",
         "quantity": "3",
@@ -102,14 +102,14 @@
     {
         "id": "3",
         "name":"Haary Poter",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlLvgYnY2N_tu6udjI2p9KOfKtSgyLLpRvSQ&usqp=CAU",
+        "img": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.24677610.1673838713&semt=sph",
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "experience": "5 Years",
         "quantity": "3",
         "likes": "5k",
         "recipes": [
             {
-                "img": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+                "img": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg&ga=GA1.2.24677610.1673838713&semt=sph",
                 "name": "Banana Appam",
                 "spices": [
                     "cummin seeds",
@@ -152,7 +152,7 @@
     {
         "id": "4",
         "name": "Bobby Flay",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHpiaXfmV_VPU9H4mdGL8I-MLmlggRzSN35Q&usqp=CAU",
+        "img": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?size=626&ext=jpg&ga=GA1.2.24677610.1673838713&semt=sph",
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "experience": "5 Years",
         "quantity": "3",
@@ -202,7 +202,7 @@
     {
         "id": "5",
         "name": "Paul Bocuse",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn1EQpWw147Bi5TOMZUzON3YQtKla6v44zLQ&usqp=CAU",
+        "img": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?size=626&ext=jpg&ga=GA1.1.24677610.1673838713&semt=sph",
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "experience": "5 Years",
         "quantity": "3",
@@ -252,7 +252,7 @@
     {
         "id": "6",
         "name": "Jamie Oliver",
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo3QKsR3lQkYFaiqcY7G0mL42PibCxWQl4Og&usqp=CAU",
+        "img": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?size=626&ext=jpg&ga=GA1.2.24677610.1673838713&semt=sph",
         "description": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
         "experience": "5 Years",
         "quantity": "3",
