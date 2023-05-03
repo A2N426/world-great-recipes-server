@@ -14,6 +14,12 @@ app.get('/data',(req,res)=>{
     res.send(data)
 })
 
+app.get('/data/:id',(req,res)=>{
+    const id = req.params.id;
+    const chef = data?.find(singleData=>singleData.id == id)
+    res.send(chef) 
+})
+
 
 app.listen(port,()=>{
     console.log('server is running')
